@@ -48,6 +48,12 @@ I enjoy solving problems, learning new tech, and sharpening both my backend and 
   </a>
 </p>
 
+
+##  Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahomWM&layout=compact&theme=react)
+
+---
+
 ---
 
 ## Let's Connect!  
