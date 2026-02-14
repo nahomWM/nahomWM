@@ -1,62 +1,221 @@
-<h1 align="center">Hi there, I'm Nahom Weldemedhin 👋</h1>
-<h3 align="center">Full Stack Developer | Cybersecurity Learner | CS Student</h3>
+<div align="center">
+
+# 👋 Hi, I'm Nahom WM
+
+### 🚀 Full Stack Developer (Backend Focused) | AI & Data Analysis Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(Backend+Focused);Data+Analysis+%26+AI+Enthusiast;Building+Scalable+Systems;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-##  About Me  
-I'm a 3rd-year Computer Science student at **Debre Birhan University**, passionate about building scalable full-stack applications, secure systems, and clean, maintainable code.  
-I enjoy solving problems, learning new tech, and sharpening both my backend and frontend skills.
+## 🧑‍💻 About Me
+
+```python
+class BackendDeveloper:
+    def __init__(self):
+        self.name = "Nahom WM"
+        self.role = "Full Stack Developer (Backend Focused)"
+        self.education = "3rd Year Computer Science Student"
+        self.location = "Ethiopia"
+        self.interests = ["System Design", "Data Analysis", "Cloud Architecture"]
+        self.currently_learning = ["Distributed Systems", "Advanced Algorithms", "Kafka"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build scalable systems together.")
+
+me = BackendDeveloper()
+me.say_hi()
+```
 
 ---
 
-##  Tech Stack  
+## 🛠️ Tech Stack
 
-### **Backend Development**
-- **Languages:** JavaScript (Node.js), TypeScript, Python, Java  
-- **Frameworks:** Express.js, NestJS  
-- **Databases:** MongoDB, MySQL  
-- **Architecture:** MVC, RESTful APIs, Modular Architecture  
-- **Tools:** Git, Postman, Docker  
+<div align="center">
 
-### **Frontend Development**
-- **Libraries/Frameworks:** React  
-- **Styling:** Tailwind CSS  
-- **Desktop UI:** Tkinter (Python), JavaFX (Java)
+### **Backend & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Cybersecurity**
-- Understanding of vulnerabilities (XSS, SQL Injection, CSRF)  
-- Secure API development  
-- Basic penetration testing  
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **AI & Data Analysis**
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### **Tools & Others**
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
-##  Currently Working On  
-- Strengthening **cybersecurity foundations**  
-- Improving frontend skills with **React + Tailwind**  
-- Developing clean and scalable full-stack architectures  
-- Cloud deployment using **AWS/GCP** and **Docker**
+## 📊 GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nahomWM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahomWM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahomWM&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Contribution Graph" height="170"/>
+</div>
+
+
 
 ---
 
-##  Profiles  
-<p>
-  <a href="https://leetcode.com/u/Nahom_wm/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://tryhackme.com/p/ShadowNm">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-  </a>
-</p>
+## 🏆 LeetCode Stats
 
+<div align="center">
 
-##  Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahomWM&layout=compact&theme=react)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nahomWM?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/nahomWM/)
+
+</div>
 
 ---
 
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nahomWM&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" />
+</div>
+
 ---
 
-## Let's Connect!  
-Open for collaborations, internships, and tech discussions!
+## 🎯 Current Focus
 
-- 📞 **Phone:** +251900565195
+```mermaid
+mindmap
+  root((Nahom WM))
+    Backend Development
+      Microservices Architecture
+      API Design & Optimization
+      Database Performance Tuning
+      System Scalability
+    AI & Data Analysis
+      Data Processing
+      Model Fine-tuning
+      Visualization
+      NLP Applications
+    Frontend Development
+      React Components
+      Responsive Design
+      UI/UX Implementation
+    Problem Solving
+      LeetCode Daily
+      System Design
+      Algorithm Optimization
+      Code Reviews
+```
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/nahomWM.svg)](https://wakatime.com/@nahomWM)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomWM&repo=news-scraping-engnie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/nahomWM/news-scraping-engnie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomWM&repo=Smart-Keyboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/nahomWM/Smart-Keyboard)
+
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+- 🤖 Building AI-powered backend systems
+- 📊 Analyzing data trends with Pandas & Databricks
+- 🌐 Developing scalable microservices with Kafka
+- 🎨 Creating responsive UIs with React & Tailwind
+- 💻 Solving algorithmic challenges on LeetCode
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahom-weldemedhin-b9405036a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weldemdhinnahom@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nahom_wm/)
+
+</div>
+
+---
+
+## 🎓 Certifications & Achievements
+
+- 🏅 **LeetCode** - Active Problem Solver
+- 🎯 **Backend Development** - Specialized in scalable systems
+- 📊 **Data Analysis** - Practical experience with Pandas & Databricks
+- ☁️ **Cloud Computing** - Docker & Nginx expertise
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📊 Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nahomWM&color=2E9EF7&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting! Let's connect and build something amazing together!
+
+**⭐ Star my repositories if you find them useful!**
+
+</div>
