@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer (Backend Focused) | AI & Data Analysis Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+(Backend+Focused);Data+Analysis+%26+AI+Enthusiast;Building+Scalable+Systems;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(Backend+Focused);Data+Analysis+%26+AI+Enthusiast;Building+Scalable+Systems;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,7 +45,10 @@ me.say_hi()
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### **AI & Data Analysis**
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -95,7 +98,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nahomWM?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/nahomWM/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Nahom_wm?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/Nahom_wm/)
 
 </div>
 
@@ -112,54 +115,25 @@ me.say_hi()
 ## 🎯 Current Focus
 
 ```mermaid
-mindmap
-  root((Nahom WM))
-    Backend Development
-      Microservices Architecture
-      API Design & Optimization
-      Database Performance Tuning
-      System Scalability
-    AI & Data Analysis
-      Data Processing
-      Model Fine-tuning
-      Visualization
-      NLP Applications
-    Frontend Development
-      React Components
-      Responsive Design
-      UI/UX Implementation
-    Problem Solving
-      LeetCode Daily
-      System Design
-      Algorithm Optimization
-      Code Reviews
+graph TD;
+    BE[Backend Development] -->|Microservices| API[API Design & Optimization];
+    BE -->|Database| DB[Performance Tuning];
+    BE -->|System| SC[Scalability];
+    
+    AI[AI & Data Analysis] -->|Data| DP[Processing];
+    AI -->|Models| FT[Fine-tuning];
+    AI -->|NLP| LP[Language Apps];
+
+    FE[Frontend Development] -->|React| RC[Components];
+    FE -->|Design| RD[Responsive UI];
+    FE -->|UX| UI[Implementation];
 ```
 
 ---
 
-## 📈 Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/nahomWM.svg)](https://wakatime.com/@nahomWM)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomWM&repo=news-scraping-engnie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/nahomWM/news-scraping-engnie)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nahomWM&repo=Smart-Keyboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/nahomWM/Smart-Keyboard)
-
-</div>
-
----
 
 ## 💡 What I'm Working On
 
