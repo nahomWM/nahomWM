@@ -39,6 +39,7 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -109,39 +110,6 @@ me.say_hi()
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nahomWM&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" />
 </div>
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-graph TD;
-    BE[Backend Development] -->|Microservices| API[API Design & Optimization];
-    BE -->|Database| DB[Performance Tuning];
-    BE -->|System| SC[Scalability];
-    
-    AI[AI & Data Analysis] -->|Data| DP[Processing];
-    AI -->|Models| FT[Fine-tuning];
-    AI -->|NLP| LP[Language Apps];
-
-    FE[Frontend Development] -->|React| RC[Components];
-    FE -->|Design| RD[Responsive UI];
-    FE -->|UX| UI[Implementation];
-```
-
----
-
-
-
-
-
-## 💡 What I'm Working On
-
-- 🤖 Building AI-powered backend systems
-- 📊 Analyzing data trends with Pandas & Databricks
-- 🌐 Developing scalable microservices with Kafka
-- 🎨 Creating responsive UIs with React & Tailwind
-- 💻 Solving algorithmic challenges on LeetCode
 
 ---
 
