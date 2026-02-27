@@ -123,16 +123,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 🎓 Certifications & Achievements
-
-- 🏅 **LeetCode** - Active Problem Solver
-- 🎯 **Backend Development** - Specialized in scalable systems
-- 📊 **Data Analysis** - Practical experience with Pandas & Databricks
-- ☁️ **Cloud Computing** - Docker & Nginx expertise
-
----
 
 ## 💭 Random Dev Quote
 
