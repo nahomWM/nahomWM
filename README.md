@@ -106,11 +106,9 @@ me.say_hi()
 ---
 
 ## 🔥 Contribution Streak
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nahomWM&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nahomWM&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" />
 </div>
-
 ---
 
 ## 📫 Connect With Me
