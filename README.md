@@ -85,9 +85,6 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nahomWM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahomWM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" height="170"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahomWM&theme=react&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Contribution Graph" height="170"/>
