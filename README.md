@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nahom WM
 
-### 🚀 Full Stack Developer (Backend Focused) | AI & Data Analysis Enthusiast
+### 🚀 Backend Developer | AI & Data Analysis Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(Backend+Focused);Data+Analysis+%26+AI+Enthusiast;Building+Scalable+Systems;Always+Learning+New+Things)](https://git.io/typing-svg)
 
