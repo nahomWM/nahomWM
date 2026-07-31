@@ -10,26 +10,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.name = "Nahom WM"
-        self.role = "Full Stack Developer (Backend Focused)"
-        self.education = "3rd Year Computer Science Student"
-        self.location = "Ethiopia"
-        self.interests = ["System Design", "Data Analysis", "Cloud Architecture"]
-        self.currently_learning = ["Distributed Systems", "Advanced Algorithms", "Kafka"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build scalable systems together.")
-
-me = BackendDeveloper()
-me.say_hi()
-```
-
----
 
 ## 🛠️ Tech Stack
 
